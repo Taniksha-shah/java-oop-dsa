@@ -1,0 +1,23 @@
+INHERITANCE, INTERFACES & PACKAGES
+
+4.1
+Understanding super keyword, Dynamic method dispatch
+and runtime polymorphism, final Keyword in Inheritance.
+
+4.2
+Abstract Classes and Methods, Casting Objects in
+Inheritance.
+
+4.3
+Introduction to Interfaces, Interface Segregation Principle,
+Interface Methods and Variables, Multiple Inheritance
+Using Interfaces, default and static method, private
+interface, Functional Interfaces, Marker Interfaces.
+
+4.4
+Introduction to Packages, Access Modifiers and Packages,
+Creating and Importing Packages, Static Imports, Jar Files.
+Introduction to the Java Module System, Creating and
+Declaring a Module, Understanding Module Descriptors,
+Working with Multiple Modules, Services and Service
+Loaders.

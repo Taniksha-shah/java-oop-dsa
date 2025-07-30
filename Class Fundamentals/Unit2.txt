@@ -1,0 +1,26 @@
+CLASS FUNDAMENTALS
+2.1 Class Fundamentals: Defining classes and creating objects.
+2.2 Instance and static variables, methods, and the new keyword,
+Assigning Object Reference Variables.
+2.3 Access modifiers: public, private, protected, default
+(package-private).
+2.4 Using final with classes, methods, and variables,
+Understanding the this keyword.
+2.5
+Constructors: Types of constructors: default and
+parameterized, Constructor overloading, instanceof operator,
+The role of the this() constructor call.
+2.6 Nested and Inner Classes: static nested class, inner class,
+method-local inner class, and anonymous inner class
+2.7
+Understanding the Object Class: The Object class and its
+methods: equals(), hashCode(), toString(), clone(), etc.
+Overriding toString() and equals() in custom classes.
+2.8
+Memory Management in Java: Stack vs. heap memory,
+Object lifecycle and garbage collection, Manual memory
+management and implications.
+2.9
+Java Annotations and Meta-annotation: Overview and
+purpose of annotations, Custom annotation, Reflection in
+Java.

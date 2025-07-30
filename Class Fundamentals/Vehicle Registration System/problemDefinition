@@ -1,0 +1,9 @@
+Problem Definition: Vehicle Registration System using Annotations, Reflection, and Final Keyword 
+
+Build a Vehicle Registration System where different types of vehicles (Car, Bike, 
+Truck) are registered. Use final variables for immutable fields, such as vehicle 
+registration numbers. Declare a final class for utility methods and restrict 
+overriding certain methods with final. Implement custom annotations like 
+@VehicleInfo to mark important fields and use reflection to extract metadata at 
+runtime (e.g., print fields annotated with @VehicleInfo). Demonstrate the use of 
+Java meta-annotations in defining your custom annotation.

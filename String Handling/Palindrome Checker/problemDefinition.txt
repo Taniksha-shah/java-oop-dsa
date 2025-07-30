@@ -1,0 +1,3 @@
+Problem Definition: Design a utility for a book reading app that 
+highlights palindrome words/sentences. Read a paragraph and identify all 
+palindromes—words or full sentences. Ignore punctuation and case.

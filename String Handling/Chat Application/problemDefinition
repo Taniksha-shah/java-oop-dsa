@@ -1,0 +1,6 @@
+Problem Definition: You are developing a chat application where users may 
+use unnecessary spaces, special characters, or slang. Create a program that 
+sanitizes each input string in real-time by: 
+● Removing extra spaces 
+● Replacing inappropriate words with *** 
+● Formatting the message (capitalization rules)

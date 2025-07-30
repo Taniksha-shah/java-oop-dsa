@@ -1,0 +1,9 @@
+MULTITHREADED PROGRAMMING
+6.1 Introduction to Multithreading, Life cycle of a thread.
+6.2 Understanding of Thread class and the Runnable interface,
+Organizing threads into groups.
+6.3 Thread Synchronization, Inter-thread Communication,
+Thread Priority and Scheduling, Deadlock and Thread Safety
+Issues.
+6.4 Executor and ExecutorService for thread pool management,
+Fork/Join Framework.

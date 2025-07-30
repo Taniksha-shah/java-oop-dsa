@@ -1,0 +1,8 @@
+EXCEPTIONS HANDLING
+5.1 Introduction to Exception Handling, Types of Exceptions:
+Checked Exceptions, Unchecked Exceptions, Try-Catch-
+Finally block.
+5.2 Throw and Throws keyword, Try-With-Resources
+Statement.
+5.3 Try-With-Resources Statement, Custom Exceptions,
+Exception Propagation.

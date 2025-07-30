@@ -1,0 +1,9 @@
+Problem Definition : Student Portal with Inner Classes, Object Class Methods, and Memory Concepts 
+
+Create a Student Portal System that stores student details and their enrolled 
+courses. Implement a main Student class and define an inner class Course. Use 
+method-local inner classes to represent semester-wise enrollments, and 
+anonymous inner classes for scholarship eligibility logic. Override the equals(), 
+toString(), and hashCode() methods from the Object class to compare student 
+objects. Demonstrate how objects are created in the heap, how method calls go 
+on the stack, and when objects become eligible for garbage collection.
