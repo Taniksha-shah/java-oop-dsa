@@ -69,15 +69,9 @@ class Chat {
 			}
 			else {
 				
-				if(false) {
-					words[i] = "$$".concat(words[i]).concat("$$");
 					words[i] = words[i].substring(0,1).toUpperCase().concat(words[i].substring(1));
 					sb.append(words[i]).append(" ");
-				}
-				else {
-					words[i] = words[i].substring(0,1).toUpperCase().concat(words[i].substring(1));
-					sb.append(words[i]).append(" ");
-				}
+				
 			}
 		}
 		
