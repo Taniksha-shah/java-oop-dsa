@@ -1,7 +1,3 @@
-Here's an interesting `notes.md` covering the "String Handling" topics, structured with clear headings, bullet points, code examples, and outputs for better understanding.
-
------
-
 # 📝 Java String Handling: Mastering Text Manipulation
 
 This document dives into the fundamental concepts of string handling in Java, exploring the `String`, `StringBuffer`, `StringBuilder` classes, various manipulation techniques, regular expressions, and string tokenization.

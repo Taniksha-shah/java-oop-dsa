@@ -1,7 +1,3 @@
-Here's a comprehensive `notes.md` covering the "INHERITANCE, INTERFACES & PACKAGES" topics, structured with clear headings, bullet points, code examples, and outputs for better understanding.
-
------
-
 # 🌳 Java: Inheritance, Interfaces & Packages
 
 This document explores three fundamental pillars of Java programming: **Inheritance** (for code reuse and hierarchy), **Interfaces** (for defining contracts and achieving abstraction), and **Packages** (for organizing and managing code).
