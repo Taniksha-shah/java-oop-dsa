@@ -1,11 +1,13 @@
 /*
 Design a simple Employee Management System to model employees in a 
-company. Each employee should have attributes like ID, name, department, and 
-salary. Use appropriate access modifiers to ensure encapsulation. Implement 
+company.
+-> Each employee should have attributes like ID, name, department, and 
+salary.
+-> Use appropriate access modifiers to ensure encapsulation. Implement 
 default and parameterized constructors, and demonstrate constructor overloading. 
-Track the number of employees created using a static variable and showcase the 
-use of the this keyword and this() constructor chaining. Use instanceof to check 
-object types during runtime when dealing with contract vs. permanent employees.
+-> Track the number of employees created using a static variable and showcase the 
+use of the this keyword and this() constructor chaining. 
+-> Use instanceof to check object types during runtime when dealing with contract vs. permanent employees.
 */
 
 class Employee {
