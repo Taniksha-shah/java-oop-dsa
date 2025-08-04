@@ -1,0 +1,9 @@
+Design a Java-based Student Management System by creating and organizing 
+related classes into different user-defined packages: 
+student.details – to store and display student personal and academic information. 
+student.utility – to provide utility functions such as grade calculation or input 
+validation. 
+student.services – to offer services like student registration, listing all students, or 
+searching by ID. 
+Implement interaction among classes from different packages using import 
+statements and proper access modifiers.  
